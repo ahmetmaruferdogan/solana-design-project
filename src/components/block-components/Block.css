@@ -1,0 +1,96 @@
+.Yasin {
+  background-image: url(../../images/Yasin.svg);
+}
+
+.Maruf {
+  background-image: url(../../images/Maruf.svg);
+}
+
+.Serkan {
+  background-image: url(../../images/Serkan.svg);
+}
+
+.Javid {
+  background-image: url(../../images/Javid.svg);
+}
+
+.block {
+  display: block;
+  min-width: 600px;
+  height: 430px;
+  background-color: #eeeeee;
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.block-element {
+  min-width: 100%;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.area-name {
+  height: 30px;
+  width: 8%;
+  display: flex;
+  justify-content: left;
+  align-content: center;
+  align-items: center;
+  color: black;
+}
+
+.area-block {
+  border-radius: 5px;
+  height: 30px;
+  width: 90%;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: left;
+  align-content: center;
+  align-items: center;
+}
+
+.area-block-1 {
+  border-radius: 5px;
+  height: 200px;
+  width: 90%;
+  background-color: white;
+  color: black;
+  display: block;
+  justify-content: left;
+  align-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+.blockchain {
+  display: flex;
+}
+
+.span-design {
+  background-color: lightgray;
+  height: 100%;
+  width: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-design {
+  margin-left: 10px;
+  font-family: monospace;
+}
+
+.text-design-1 {
+  margin: 1px;
+}
+
+
+.App {
+  text-align: center;
+}
