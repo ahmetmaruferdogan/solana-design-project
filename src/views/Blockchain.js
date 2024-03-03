@@ -3,6 +3,7 @@ import React, { useEffect, useState, createRef } from 'react'
 import classNames from 'classnames'
 import { CRow, CCol, CCard, CCardHeader, CCardBody } from '@coreui/react'
 import { rgbToHex } from '@coreui/utils'
+import BlockchainContents from 'src/page_components/BlockchainContents'
 
 const ThemeView = () => {
   const [color, setColor] = useState('rgb(255, 255, 255)')
@@ -55,20 +56,7 @@ const Blockchain = () => {
         </CCardHeader>
         <CCardBody>
           <CRow>
-            <p className="text-medium-emphasis">
-              A blockchain is a distributed database or ledger shared among a computer networks nodes. They are best
-              known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record
-              of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in
-              any industry immutable, the term used to describe the inability to be altered.
-            </p>
-
-            <p className="text-medium-emphasis">
-              A blockchain consists of programs called scripts that conduct the tasks you usually would in a database:
-              Entering and accessing information and saving and storing it somewhere. A blockchain is distributed,
-              which means multiple copies are saved on many machines, and they must all match for it to be valid.
-            </p>
-
-            <strong>BLOCKCHAIN TRILLEMA BAHSEDILECEK</strong>
+            <BlockchainContents/>
           </CRow>
         </CCardBody>
       </CCard>
