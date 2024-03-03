@@ -3,7 +3,7 @@ import React, { useEffect, useState, createRef } from 'react'
 import classNames from 'classnames'
 import { CRow, CCol, CCard, CCardHeader, CCardBody } from '@coreui/react'
 import { rgbToHex } from '@coreui/utils'
-import BlockchainContents from 'src/page_components/BlockchainContents'
+import BlockchainContents from '../../src/page_components/BlockchainContents'
 
 const ThemeView = () => {
   const [color, setColor] = useState('rgb(255, 255, 255)')

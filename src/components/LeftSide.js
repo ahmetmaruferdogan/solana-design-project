@@ -1,7 +1,7 @@
-import React, {ReactNode} from "react";
+import React from "react";
 import "./LeftSide.css"
 import { Sidebar } from 'react-pro-sidebar';
-export const LeftSide = ({ children }: { children: ReactNode }) => {
+export const LeftSide = ({ children }) => {
     return (
         <Sidebar className={"left-side"}>
             {children}

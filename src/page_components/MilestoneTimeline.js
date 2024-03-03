@@ -1,8 +1,7 @@
 "use client"
 
 import React from "react";
-import "./Blockchain.css"
-import styles from './MilestoneTimeline.module.css'
+import "./BlockchainContents.css"
 import { Chrono } from "react-chrono";
 
 const MilestoneTimeline = () => {

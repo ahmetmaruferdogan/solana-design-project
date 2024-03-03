@@ -8,6 +8,10 @@
 'use strict'
 
 module.exports = {
+  extends: [
+    'prettier/flowtype',
+    'plugin:flowtype/recommended',
+  ],
   collectCoverageFrom: [
     'src/**/*.{js,jsx}',
     '!**/*index.js',
