@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/solana-design-project/static/css/main.2ca1f487.css",
-    "main.js": "/solana-design-project/static/js/main.5923345e.js",
+    "main.js": "/solana-design-project/static/js/main.de657b1f.js",
     "static/css/120.0a16c7bf.chunk.css": "/solana-design-project/static/css/120.0a16c7bf.chunk.css",
     "static/js/120.7f6a9b99.chunk.js": "/solana-design-project/static/js/120.7f6a9b99.chunk.js",
     "static/js/488.371f7511.chunk.js": "/solana-design-project/static/js/488.371f7511.chunk.js",
     "static/js/615.9bd2b71f.chunk.js": "/solana-design-project/static/js/615.9bd2b71f.chunk.js",
     "static/js/57.0f7786fd.chunk.js": "/solana-design-project/static/js/57.0f7786fd.chunk.js",
-    "static/css/849.6b40130a.chunk.css": "/solana-design-project/static/css/849.6b40130a.chunk.css",
+    "static/css/849.8b1c0e21.chunk.css": "/solana-design-project/static/css/849.8b1c0e21.chunk.css",
     "static/js/849.3e57cf7b.chunk.js": "/solana-design-project/static/js/849.3e57cf7b.chunk.js",
     "static/css/243.fd63260b.chunk.css": "/solana-design-project/static/css/243.fd63260b.chunk.css",
     "static/js/243.a6a3396c.chunk.js": "/solana-design-project/static/js/243.a6a3396c.chunk.js",
@@ -21,13 +21,13 @@
     "static/media/8.jpg": "/solana-design-project/static/media/8.35ee8919ea545620a475.jpg",
     "index.html": "/solana-design-project/index.html",
     "main.2ca1f487.css.map": "/solana-design-project/static/css/main.2ca1f487.css.map",
-    "main.5923345e.js.map": "/solana-design-project/static/js/main.5923345e.js.map",
+    "main.de657b1f.js.map": "/solana-design-project/static/js/main.de657b1f.js.map",
     "120.0a16c7bf.chunk.css.map": "/solana-design-project/static/css/120.0a16c7bf.chunk.css.map",
     "120.7f6a9b99.chunk.js.map": "/solana-design-project/static/js/120.7f6a9b99.chunk.js.map",
     "488.371f7511.chunk.js.map": "/solana-design-project/static/js/488.371f7511.chunk.js.map",
     "615.9bd2b71f.chunk.js.map": "/solana-design-project/static/js/615.9bd2b71f.chunk.js.map",
     "57.0f7786fd.chunk.js.map": "/solana-design-project/static/js/57.0f7786fd.chunk.js.map",
-    "849.6b40130a.chunk.css.map": "/solana-design-project/static/css/849.6b40130a.chunk.css.map",
+    "849.8b1c0e21.chunk.css.map": "/solana-design-project/static/css/849.8b1c0e21.chunk.css.map",
     "849.3e57cf7b.chunk.js.map": "/solana-design-project/static/js/849.3e57cf7b.chunk.js.map",
     "243.fd63260b.chunk.css.map": "/solana-design-project/static/css/243.fd63260b.chunk.css.map",
     "243.a6a3396c.chunk.js.map": "/solana-design-project/static/js/243.a6a3396c.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.2ca1f487.css",
-    "static/js/main.5923345e.js"
+    "static/js/main.de657b1f.js"
   ]
 }
